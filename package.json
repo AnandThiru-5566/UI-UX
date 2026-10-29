@@ -1,0 +1,7 @@
+{
+  "name": "rideease-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"install:all": "npm install --prefix frontend", "dev": "npm run dev --prefix frontend"},
+  "description": "RideEase six-screen desktop ride booking demo with React frontend and Flask API"
+}
